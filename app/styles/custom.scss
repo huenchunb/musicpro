@@ -1,0 +1,7 @@
+@import "~bootstrap/scss/bootstrap";
+
+// Sobrescribe las variables de Bootstrap
+$theme-colors: (
+  "primary": #c09e70,
+  "secondary": #a68053,
+);
